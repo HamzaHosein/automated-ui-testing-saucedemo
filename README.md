@@ -22,25 +22,25 @@ The application under test is **SauceDemo**, a commonly used demo website for UI
 ## 🧪 Test Coverage
 Tests are organized by feature to mirror real-world QA automation frameworks.
 
-### 🔐 Login & Access Control
+### Login & Access Control
 - Valid login
 - Invalid login
 - Missing username or password
 - Incorrect credentials
 - Session invalidation after logout
 
-### 🛒 Cart Functionality
+### Cart Functionality
 - Add items to cart
 - Remove items from cart
 - Validate correct items appear in cart
 - Cart updates dynamically
 
-### 📦 Inventory Page
+### Inventory Page
 - Verify items are displayed
 - Product sorting (alphabetical & reverse order)
 - Dropdown sorting validation
 
-### 💳 Checkout Validation
+### Checkout Validation
 - Required field validation
 - Error message verification
 - Successful checkout flow
@@ -60,7 +60,6 @@ Manual test cases were designed and executed prior to automation to identify edg
 ## 📂 Project Structure
 
 ```
-## 📂 Project Structure
 
 - documentation/
   - sample_test_cases.md
