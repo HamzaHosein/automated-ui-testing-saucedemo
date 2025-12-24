@@ -60,20 +60,22 @@ Manual test cases were designed and executed prior to automation to identify edg
 ## 📂 Project Structure
 
 ```
-automated-ui-testing-saucedemo/
-├── documentation/
-│   ├── sample_test_cases.md
-│   └── sample_bug_reports.md
-├── tests/
-│   ├── Access_Control/
-│   ├── cart_functionality/
-│   ├── Checkout_Validation/
-│   ├── test_inventory_page/
-│   ├── test_login/
-│   └── conftest.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+## 📂 Project Structure
+
+- documentation/
+  - sample_test_cases.md
+  - sample_bug_reports.md
+- tests/
+  - Access_Control/
+  - cart_functionality/
+  - Checkout_Validation/
+  - test_inventory_page/
+  - test_login/
+  - conftest.py
+- README.md
+- requirements.txt
+- .gitignore
+
 ```
 
 
